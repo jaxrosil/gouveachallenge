@@ -1,0 +1,7 @@
+field "UF" 2 text 0 2
+field "City" 22 text 50 72
+field "emission" 25 datetime 100 125
+field "CEAN" 16 text 150 166
+field "DESC" 14 text 200 214
+field "CNAE" 16 text 250 266
+field "NCM" 16 text 300 316
